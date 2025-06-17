@@ -21,7 +21,7 @@ This analysis focuses on providing data-driven answers to the following critical
     * *Objective:* To identify leading organizations (with available data) that have consistently fostered Nobel-winning achievements, and to analyze the correlation between these organizations' success, the prevalence of multi-laureate individuals associated with them, and the economic strength (GDP) of their respective host countries. This analysis will inform strategies for investing in environments that demonstrate a high return on academic excellence.
 
 3.  **National Trends & Performance (e.g., US focus):** To inform national investment strategies in academic excellence, which historical periods demonstrate the most significant concentration of Nobel laureates originating from specific high-performing nations (e.g., the US), relative to total global awards, and what insights can be drawn from these peaks?
-    * *Objective:* [**TO BE DEFINED LATER** - We'll define this objective and its KPIs when we work on this section.]
+    * *Objective:
 
 ## Key Findings / Insights
 
@@ -34,7 +34,7 @@ This analysis focuses on providing data-driven answers to the following critical
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/nobel_prize_analysis.git](https://github.com/yourusername/nobel_prize_analysis.git)
+    git clone [https://github.com/PedroDaim/nobel_prize_analysis.git]
     cd nobel_prize_analysis
     ```
 2.  **Create and activate a virtual environment (recommended):**
@@ -71,8 +71,8 @@ This analysis focuses on providing data-driven answers to the following critical
 
 ## Data Sources
 
-* Nobel Prize Laureate Data: [Specify your DataCamp source or original Kaggle/other source if different]
-* World Bank GDP Data (1960-2020): [Specify your Kaggle source URL for GDP data]
+* Nobel Prize Laureate Data:(https://www.kaggle.com/datasets/sazidthe1/nobel-prize-data)
+* World Bank GDP Data (1960-2020): https://www.kaggle.com/datasets/rinichristy/countries-gdp-19602020
 
 ## Limitations
 
@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-[Your Name] - [Your Email] - [Your LinkedIn Profile URL (optional)]
+Pedro Daim - LinkedIn: https://www.linkedin.com/in/data-daim/
